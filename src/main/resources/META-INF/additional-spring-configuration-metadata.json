@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "openpay.url",
+    "type": "java.lang.String",
+    "description": "A description for 'openpay.url'"
+  },
+  {
+    "name": "openpay.key.id",
+    "type": "java.lang.String",
+    "description": "A description for 'openpay.key.id'"
+  },
+  {
+    "name": "openpay.key.private",
+    "type": "java.lang.String",
+    "description": "A description for 'openpay.key.private'"
+  },
+  {
+    "name": "openpay.redirect",
+    "type": "java.lang.String",
+    "description": "A description for 'openpay.redirect'"
+  }
+]}
